@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 10 15:56:36 IST 2020
+@43.88.64.10\:8080>@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1578651996680
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact commons-ssl\:not-yet-commons-ssl\:pom\:0.3.11 from/to central (https\://repo.maven.apache.org/maven2)\: Unexpected response code for CONNECT\: 503
