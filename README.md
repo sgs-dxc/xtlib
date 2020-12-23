@@ -1,2 +1,2 @@
 # xtlib
-External Libraries
+Libraries used in Digibot which are removed from Maven
